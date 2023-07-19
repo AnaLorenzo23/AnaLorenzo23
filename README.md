@@ -1,5 +1,5 @@
 
-+ 👋 Hi, I’m @Anadev
++ 👋 Hi, I’m @Ana
 + 👀 I’m interested in web development and fintech
 + 🌱 I’m currently working in Gradhoc company
 + 🎉 I have experience in JavaScript, React, Node, SQL
