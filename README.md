@@ -4,4 +4,4 @@
 + 👀 I’m interested in web development and fintech
 + 🌱 I’m currently working in Gradhoc company
 + 😄 I usually work with github, jira, figma and agile methodologies
-+ 📫 How to reach me alorenzo@gradhoc.com 
++ 📫 How to reach me ana.lorenzolp@gmail.com 
